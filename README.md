@@ -1,4 +1,4 @@
-# Survery_Prediction
+# Survery Prediction
 Predict missing survey values using Machine Learning Algorithms
 
 ### Summary
